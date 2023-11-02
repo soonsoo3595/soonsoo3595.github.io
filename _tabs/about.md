@@ -12,13 +12,7 @@ order: 4
 🏫 School: Konkuk University, Smart ICT Convergence Engineering Department
 
 📧 Email: whwogns3595@gmail.com
-<!--
-🌐 Website: [Your Website](https://www.yourwebsite.com)
 
-📱 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
-🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
--->
 ## About Me
 
 컴퓨터 공학을 전공하고 있으며 현재는 게임 클라이언트 개발을 지망하고 있습니다.  
