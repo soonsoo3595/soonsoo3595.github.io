@@ -3,12 +3,18 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#  icon: "fa-brands fa-x-twitter"
+- type: baekjoon-online-judge
+  icon: "fa-sharp fa-solid fa-code"
+  url: "https://solved.ac/profile/soonsoo3595"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: instagram
+  icon: "fa-brands fa-instagram"
+  url : "https://instagram.com/hi_hhoon"
+# - type: email
+#  icon: "fas fa-envelope"
+#  noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
