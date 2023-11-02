@@ -6,10 +6,14 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
+cho:
+  name: Jaehoon Cho
+  url : https://github.com/soonsoo3595/
+  
 cotes:
   name: Cotes Chung
   twitter: cotes2020
-  url: https://github.com/cotes2020/
+  url: https://github.com/soonsoo3595/
 
 sille_bille:
   name: Dinesh Prasanth Moluguwan Krishnamoorthy
