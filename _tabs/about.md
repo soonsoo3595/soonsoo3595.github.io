@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 # Cho Jae Hoon
 <!--![Profile Photo](https://example.com/your-profile-photo.jpg)-->
 
